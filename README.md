@@ -1,4 +1,4 @@
-# Resume & LinkedIn Optimization – Masterclass Recap 🎯
+# Resume & LinkedIn Optimization – Masterclass Recap 🎯 
 
 ये repository उन practical learnings और notes का collection है जो मैंने **Rohit Negi Sir** और **Aditya Tandon Sir** से masterclass में सीखी।  
 इसका main उद्देश्य है कि कोई भी student या professional आसानी से समझ सके कि **resume और LinkedIn profile सिर्फ information देने का tool नहीं है, बल्कि एक marketing tool है!**  
