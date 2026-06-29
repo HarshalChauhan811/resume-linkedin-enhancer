@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 About this Repository
+## 📖 About this Repository. 
 इस repo में आपको मिलेगा:
 - Resume optimization के clear rules और templates  
 - LinkedIn profile optimization की strategy  
